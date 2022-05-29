@@ -1,0 +1,2 @@
+Hello, Joselle and Louie!
+Welcome to Git and Github.
